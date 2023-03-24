@@ -4,5 +4,6 @@
 }
 .countries-container img{
     width: 90%;
+    height: 200px;
     border-radius: 10px;
 }
