@@ -1,0 +1,8 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.countries-container img{
+    width: 90%;
+    border-radius: 10px;
+}
